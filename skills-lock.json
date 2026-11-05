@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "computer-vision-opencv": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "computer-vision-opencv/SKILL.md",
+      "computedHash": "d50ff99f520cf6bfb44971f1e915b61a6a4971ee0fcccdd1986d6522a31b61fc"
+    },
+    "computer-vision-pipeline": {
+      "source": "curiositech/windags-skills",
+      "sourceType": "github",
+      "skillPath": "skills/computer-vision-pipeline/SKILL.md",
+      "computedHash": "9c9d4b29396ceecc0ba86d954d597572e8d53b0433b0e2e2ec0966bdb49e0e47"
+    },
+    "jupyter-notebook": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/jupyter-notebook/SKILL.md",
+      "computedHash": "ed6cf5b159eeb076eaa43007920ae5aca10336ad1e6cec7baf973f3f83a9eb7f"
+    },
+    "ml-experimentation": {
+      "source": "ericmjl/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ml-experimentation/SKILL.md",
+      "computedHash": "801e7996dea29f5240e1149f28b357bcb91c659e4f8d24700bf6a8b58449d8ac"
+    },
+    "model-evaluation-report": {
+      "source": "skillmedev/data-science-ml",
+      "sourceType": "github",
+      "skillPath": "skills/model-evaluation-report/SKILL.md",
+      "computedHash": "f199273f51e6597d494f5e2b8aa16f8290dfa9cfbb9af8b3a655fb3b89fe875c"
+    },
+    "pytorch": {
+      "source": "tondevrel/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/pytorch/SKILL.md",
+      "computedHash": "aaf14f38609cf09b3886baef53ceb03236f9efde29eeca3c61f538ec77fb5c7c"
+    },
+    "scientific-visualization": {
+      "source": "k-dense-ai/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-visualization/SKILL.md",
+      "computedHash": "69271a084a272470275da16ab56edfe95a40aa9a42e052cd73503ed94d98c655"
+    },
+    "vision-expert": {
+      "source": "vosslab/vosslab-skills",
+      "sourceType": "github",
+      "skillPath": "skills/experts/vision-expert/SKILL.md",
+      "computedHash": "f1548f900d3c2fa8d3b1fe34415ee6871512469031083339257971f06a3ae183"
+    }
+  }
+}

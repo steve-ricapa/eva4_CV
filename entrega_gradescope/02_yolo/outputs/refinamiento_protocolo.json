@@ -1,0 +1,40 @@
+{
+  "tile": 768,
+  "overlap": 0.25,
+  "step": 576,
+  "margen_centro": 96.0,
+  "tiles_xy": [
+    [
+      0,
+      0
+    ],
+    [
+      576,
+      0
+    ],
+    [
+      1152,
+      0
+    ],
+    [
+      0,
+      576
+    ],
+    [
+      576,
+      576
+    ],
+    [
+      1152,
+      576
+    ]
+  ],
+  "iou_local": 0.5,
+  "iou_global": 0.5,
+  "tolerancia_borde_px": 1,
+  "min_dimension_exclusiva_px": 2,
+  "min_aspecto_ancho_alto": 0.05,
+  "max_det_por_llamada": 300,
+  "repeticiones": 3,
+  "device": "cpu"
+}

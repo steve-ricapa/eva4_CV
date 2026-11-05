@@ -1,0 +1,78 @@
+{
+  "tensor_shapes": [
+    [
+      1,
+      3,
+      448,
+      640
+    ],
+    [
+      1,
+      3,
+      640,
+      640
+    ],
+    [
+      1,
+      3,
+      640,
+      960
+    ],
+    [
+      1,
+      3,
+      864,
+      1280
+    ]
+  ],
+  "original_hw": [
+    1254,
+    1880
+  ],
+  "max_det": 300,
+  "iou_local": 0.5,
+  "iou_global_slicing": 0.5,
+  "tiles": 12,
+  "tiempo": "mediana de 3 repeticiones tras calentamiento, extremo a extremo; sin dibujo",
+  "device": "cpu",
+  "rect": true,
+  "stride": 32,
+  "letterbox_full": [
+    {
+      "imgsz": 640,
+      "scale": 0.3404255319148936,
+      "resize_wh": [
+        640,
+        427
+      ],
+      "tensor_hw": [
+        448,
+        640
+      ]
+    },
+    {
+      "imgsz": 960,
+      "scale": 0.5106382978723404,
+      "resize_wh": [
+        960,
+        640
+      ],
+      "tensor_hw": [
+        640,
+        960
+      ]
+    },
+    {
+      "imgsz": 1280,
+      "scale": 0.6808510638297872,
+      "resize_wh": [
+        1280,
+        854
+      ],
+      "tensor_hw": [
+        864,
+        1280
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# Python
+AGENTS.md
+__pycache__/
+*.pyc
+.pytest_cache/
+# Entorno
+.venv/
+# Jupyter
+.ipynb_checkpoints/
+# Datos generados (mantener .gitkeep)
+data/raw/*
+data/processed/*
+outputs/figures/*
+outputs/results/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/results/.gitkeep

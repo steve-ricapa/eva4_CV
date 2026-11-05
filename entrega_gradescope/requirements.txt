@@ -1,0 +1,10 @@
+# Python 3.14; versiones observadas en los entornos de prueba.
+torch==2.15.0
+torchvision==0.29.2
+ultralytics==8.4.202
+numpy==2.5.4
+opencv-python==5.0.0.93
+matplotlib==3.11.2
+Pillow==12.3.0
+notebook==7.6.4
+ipykernel==7.4.0

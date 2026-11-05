@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "C:\\Users\\steve\\Desktop\\datasets",
+  "weights_dir": "C:\\Users\\steve\\Desktop\\Examen_EU4_CV\\weights",
+  "runs_dir": "C:\\Users\\steve\\Desktop\\Examen_EU4_CV\\runs",
+  "uuid": "5d64c04735549f34490fff2de680c329f965c0c489711d7336f60feda7e8727e",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
