@@ -1,5 +1,6 @@
 # Python
 AGENTS.md
+.agents/skills/
 __pycache__/
 *.pyc
 .pytest_cache/
